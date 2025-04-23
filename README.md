@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @pbmas
-import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Instagram } from "lucide-react";
 
 export default function Portfolio() {
   return (
